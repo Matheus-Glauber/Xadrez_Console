@@ -17,6 +17,6 @@ namespace Xadrez_Console.tabuleiro
             Cor = cor;
             Tab = tab;
             QtdMovimentos = 0;
-        }
+        }                
     }
 }
