@@ -4,7 +4,8 @@
 Curso existente na plataforma [Udemy](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/).
 
 * Implementar um jogo de xadrez, com seu desenvolvimento embasado no paradigma - Programação Orientada a Objetos (POO).
-* Lista não ordenada.
+* O projeto será dividido em camadas (Tabuleiro, Xadrez, Aplicação);
+* .
 
 ## Exercício
 
